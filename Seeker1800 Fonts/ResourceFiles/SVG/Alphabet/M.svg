@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 288 216">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <g id="M">
+    <polygon class="cls-1" points="36 180 0 216 72 216 72 54 36 54 36 180"/>
+    <rect class="cls-1" x="126" y="54" width="36" height="162"/>
+    <rect class="cls-1" x="216" y="54" width="36" height="162"/>
+    <polygon class="cls-1" points="36 0 0 36 252 36 288 0 36 0"/>
+  </g>
+</svg>

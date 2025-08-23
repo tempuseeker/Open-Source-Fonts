@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 234 216">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <g id="R">
+    <polygon class="cls-1" points="0 36 36 0 144 0 207 63 162 108 108 108 153 63 126 36 0 36"/>
+    <polygon class="cls-1" points="36 54 72 54 72 216 0 216 36 180 36 54"/>
+    <polygon class="cls-1" points="90 126 90 162 126 162 180 216 234 216 144 126 90 126"/>
+  </g>
+</svg>
