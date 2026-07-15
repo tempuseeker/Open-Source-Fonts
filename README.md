@@ -1,21 +1,19 @@
+# Open Source Fonts
+This repository is used to store Fonts. <br>
+The fonts that have been arranged and checked will be uploaded here. <br>
+And these fonts will follow the [SIL OPEN FONT LICENSE (OFL)](https://openfontlicense.org/). <br>
 
-# Fonts Repository
-<br>
+### The following is the font preview :
+<hr>
 
-**此处显示的所有字体都是开源的**
-<br>
-**All fonts that appear here are open sourced**
-<br>
-**遵循字体开源协议 (OFL)**
-<br>
-**Follow the Open Font License (OFL)**
+## Seeker1000 Font
 <br>
 
+![Seeker1000](https://github.com/tempuseeker/Open-Source-Fonts/blob/80577d717a21f7d75ae05a8464848a5195422dea/Preview/Seeker-1000%20Preview.png)
+ 
+Include 26 Characters and 10 Digitals (SVG Images) <br>
+Seeker1000Fonts-Regular.ttf (TrueType) <br>
+Seeker1000Fonts-Regular.woff (Web Open Font Format) <br>
+Seeker1000Fonts-Regular.woff2 (Web Open Font Format 2.0) <br>
 
-## [Seeker1800 Fonts](https://github.com/tempuseeker/Open-source-Fonts/tree/1680d97bbb732db5d1ffd76368d586ad85ba1183/Seeker1800%20Fonts)
-|Digit|Punctuations|Special|English|中文|日本語|Русский|
-|--|--|--|--|--|--|--|
-|Yes √|No ×|No ×|Yes √|无 ×|無し ×|Нет ×|
-<br>
-
-![Seeker1800 Fonts](https://github.com/tempuseeker/Open-source-Fonts/blob/1680d97bbb732db5d1ffd76368d586ad85ba1183/Preview/Seeker1800%20Fonts%20Preview.png)
+<hr>
