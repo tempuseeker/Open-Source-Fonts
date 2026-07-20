@@ -1,4 +1,8 @@
 # Open Source Fonts
+
+English | [中文](README-zh.md)
+<br>
+
 This repository is used to store Fonts. <br>
 The fonts that have been arranged and checked will be uploaded here. <br>
 And these fonts will follow the [SIL OPEN FONT LICENSE (OFL)](https://openfontlicense.org/). <br>
